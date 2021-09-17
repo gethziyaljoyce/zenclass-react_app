@@ -1,0 +1,97 @@
+h1{
+    color:white;
+    text-align:center;
+    padding-top: 20px;
+    font-size: 6rem;
+}
+h3,h4,h2,h5,p{
+    color:white;
+}
+
+.container_main{
+    max-width: 25rem;
+    border:  1px solid dodgerblue;
+    text-align: center;
+    margin-left: 60rem;
+    margin-top: 10rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    border-radius: 20px;
+    background-color:dodgerblue;
+    box-shadow: 0px 5px 5px 5px white;
+}
+.links{
+    padding-right: 20px;
+    padding-left: 20px;
+    color:white;
+}
+body{
+    background-image: url("https://wallpapertag.com/wallpaper/full/f/c/d/124168-free-download-engineering-wallpaper-1920x1080-for-ios.jpg");
+background-size: cover;
+}
+.prof_pic{
+    height:17rem;
+    width: 17rem;
+    border-radius: 60%;
+}
+.container-prof{
+border: 1px solid dodgerblue;
+margin-top: 40px;
+margin-left: 60rem;
+max-width: 400px;
+padding-top:20px;
+padding-left: 20px;
+background-color:dodgerblue;
+border-radius: 10px;
+box-shadow: 0px 5px 5px 5px white;
+}
+.container-prof:hover{
+    background-color:purple;
+}
+.container_main:hover{
+    background-color:purple;
+}
+
+th{
+    color:blue;
+    text-align: center;
+    font-size: 20px;
+}
+td{
+    color:white;
+}
+table{
+    background-color:slategray;
+}
+.container_form{
+    border:1px solid black;
+margin-left:30rem;
+margin-right: 30rem;
+margin-top: 10rem;
+margin-bottom: 5rem;
+background-color: snow;
+padding-left: 5rem;
+padding-right: 5rem;
+padding-top: 2rem;
+text-align: center;
+border-radius: 10px;
+}
+#add{
+    color:black;
+    padding-bottom: 1rem;
+    
+}
+.container_individual{
+    border:2px solid white;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:15px;
+    padding-left: 15px;
+}
+#posts{
+    text-align: center;
+}
+.comment{
+    border: 1px solid white;
+    margin-bottom: 2px;
+}
