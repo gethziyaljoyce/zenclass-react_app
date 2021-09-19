@@ -29,6 +29,7 @@ class Posts extends React.Component {
     }
 
     deleteData = async (id) => {
+        window.alert("Are you sure?");
         try {
             await axios.delete(`${URL}/${id}`);
             console.log(id);
